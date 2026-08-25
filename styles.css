@@ -13,3 +13,11 @@ code {
     border-radius: 6px;
     font-size: 85%;
 }
+
+button {
+    font-size: 1rem;
+}
+
+.main-div {
+    max-width: 50%;
+}
