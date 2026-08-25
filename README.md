@@ -1,2 +1,2 @@
 # auroratuner-github.io
-This is a GitHub Pages repository for news regarding the Aurora Tuner app. This might include dev vlogs, changes, ads and more
+This is a GitHub Pages repository for news regarding the Aurora Tuner app. This might include dev vlogs, changes to the app, ads and more
