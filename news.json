@@ -2,11 +2,11 @@
     {
         "title": "Hello, World!",
         "article": "The news website is now online, let's go!",
-        "timestamp": 1787644223000
+        "timestamp": 1787644223
     },
     {
         "title": "Test entry",
         "article": "Heeey",
-        "timestamp": 1787649993675
+        "timestamp": 1787649993
     }
 ]
