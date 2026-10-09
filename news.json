@@ -1,5 +1,10 @@
 [
     {
+        "title": "Settings button",
+        "article": "Settings button is now alive!",
+        "timestamp": 1791521659
+    },
+    {
         "title": "News synchronization",
         "article": "I am glad to announce that the news website is now linked to the app",
         "timestamp": 1787866704
